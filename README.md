@@ -1,6 +1,8 @@
 # ReportesSurMotors
 Reportes de Factura Electronica Peru, de XML a PDF en java
 
+configuracion base t:
+
 para que las librerias funciones debe de teer las sigueinte dependecias
 en C:\java_libs
 commons-ssl
